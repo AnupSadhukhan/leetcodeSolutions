@@ -26,6 +26,6 @@ class Solution {
             }
         }
         return longest==0?-1 : n-longest;
-        Scan
+       
     }
 }
