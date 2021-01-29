@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./solutions/38.%20Count%20and%20Say.java)|13 ms|
 |115|[ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Java](./solutions/115.%20Distinct%20Subsequences.java)|4 ms|
 |521|[ Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Java](./solutions/521.%20Longest%20Uncommon%20Subsequence%20I.java)|0 ms|
 |940|[ Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](./solutions/940.%20Distinct%20Subsequences%20II.java)|11 ms|
