@@ -13,6 +13,7 @@
 |521|[ Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Java](./solutions/521.%20Longest%20Uncommon%20Subsequence%20I.java)|0 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.java)|0 ms|
+|821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |940|[ Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](./solutions/940.%20Distinct%20Subsequences%20II.java)|11 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
 |1658|[ Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Java](./solutions/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java)|83 ms|
