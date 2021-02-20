@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |11|[ Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./solutions/11.%20Container%20With%20Most%20Water.java)|2 ms|
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./solutions/13.%20Roman%20to%20Integer.java)|5 ms|
+|31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|0 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./solutions/38.%20Count%20and%20Say.java)|13 ms|
 |71|[ Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./solutions/71.%20Simplify%20Path.java)|3 ms|
 |115|[ Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[Java](./solutions/115.%20Distinct%20Subsequences.java)|4 ms|
