@@ -18,6 +18,7 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|7 ms|
 |413|[ Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Java](./solutions/413.%20Arithmetic%20Slices.java)|0 ms|
 |521|[ Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Java](./solutions/521.%20Longest%20Uncommon%20Subsequence%20I.java)|0 ms|
+|524|[ Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Java](./solutions/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.java)|17 ms|
 |538|[ Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](./solutions/538.%20Convert%20BST%20to%20Greater%20Tree.java)|0 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.java)|0 ms|
