@@ -39,3 +39,4 @@
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Java](./solutions/1768.%20Merge%20Strings%20Alternately.java)|0 ms|
 |1769|[ Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Java](./solutions/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.java)|2 ms|
+|1770|[ Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[Java](./solutions/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.java)|189 ms|
