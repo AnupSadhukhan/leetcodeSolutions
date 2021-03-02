@@ -27,6 +27,7 @@
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](./solutions/575.%20Distribute%20Candies.java)|32 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.java)|1 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
+|645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](./solutions/645.%20Set%20Mismatch.java)|10 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.java)|0 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|1 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
