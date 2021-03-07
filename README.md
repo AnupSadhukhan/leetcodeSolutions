@@ -56,3 +56,4 @@
 |1768|[ Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Java](./solutions/1768.%20Merge%20Strings%20Alternately.java)|0 ms|
 |1769|[ Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Java](./solutions/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.java)|2 ms|
 |1770|[ Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[Java](./solutions/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.java)|189 ms|
+|1784|[ Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Java](./solutions/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.java)|0 ms|
