@@ -59,6 +59,7 @@
 |1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[Java](./solutions/1629.%20Slowest%20Key.java)|1 ms|
 |1658|[ Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Java](./solutions/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java)|83 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
+|1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./solutions/1678.%20Goal%20Parser%20Interpretation.java)|0 ms|
 |1734|[ Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)|[Java](./solutions/1734.%20Decode%20XORed%20Permutation.java)|2 ms|
 |1736|[ Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Java](./solutions/1736.%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.java)|0 ms|
 |1737|[ Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/)|[Java](./solutions/1737.%20Change%20Minimum%20Characters%20to%20Satisfy%20One%20of%20Three%20Conditions.java)|8 ms|
