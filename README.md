@@ -47,6 +47,7 @@
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.java)|0 ms|
 |677|[ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Java](./solutions/677.%20Map%20Sum%20Pairs.java)|11 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](./solutions/706.%20Design%20HashMap.java)|12 ms|
+|779|[ K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Java](./solutions/779.%20K-th%20Symbol%20in%20Grammar.java)|0 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|1 ms|
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Java](./solutions/820.%20Short%20Encoding%20of%20Words.java)|12 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
