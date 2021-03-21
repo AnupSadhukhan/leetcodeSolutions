@@ -59,6 +59,7 @@
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Java](./solutions/823.%20Binary%20Trees%20With%20Factors.java)|25 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|1 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Java](./solutions/856.%20Score%20of%20Parentheses.java)|0 ms|
+|869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](./solutions/869.%20Reordered%20Power%20of%202.java)|1 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](./solutions/895.%20Maximum%20Frequency%20Stack.java)|25 ms|
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.java)|372 ms|
 |912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Java](./solutions/912.%20Sort%20an%20Array.java)|6 ms|
