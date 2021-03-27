@@ -78,6 +78,7 @@
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|3 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
+|1248|[ Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./solutions/1248.%20Count%20Number%20of%20Nice%20Subarrays.java)|13 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Java](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java)|5 ms|
 |1310|[ XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Java](./solutions/1310.%20XOR%20Queries%20of%20a%20Subarray.java)|1 ms|
 |1318|[ Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|[Java](./solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.java)|0 ms|
