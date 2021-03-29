@@ -70,6 +70,7 @@
 |869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](./solutions/869.%20Reordered%20Power%20of%202.java)|1 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](./solutions/895.%20Maximum%20Frequency%20Stack.java)|25 ms|
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.java)|372 ms|
+|904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Java](./solutions/904.%20Fruit%20Into%20Baskets.java)|6 ms|
 |912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Java](./solutions/912.%20Sort%20an%20Array.java)|6 ms|
 |916|[ Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./solutions/916.%20Word%20Subsets.java)|17 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Java](./solutions/923.%203Sum%20With%20Multiplicity.java)|367 ms|
