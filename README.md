@@ -43,6 +43,7 @@
 |423|[ Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Java](./solutions/423.%20Reconstruct%20Original%20Digits%20from%20English.java)|7 ms|
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Java](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.java)|4 ms|
 |478|[ Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Java](./solutions/478.%20Generate%20Random%20Point%20in%20a%20Circle.java)|200 ms|
+|496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./solutions/496.%20Next%20Greater%20Element%20I.java)|2 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](./solutions/509.%20Fibonacci%20Number.java)|0 ms|
 |521|[ Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[Java](./solutions/521.%20Longest%20Uncommon%20Subsequence%20I.java)|0 ms|
 |524|[ Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[Java](./solutions/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting.java)|17 ms|
