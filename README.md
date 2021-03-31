@@ -76,6 +76,7 @@
 |916|[ Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./solutions/916.%20Word%20Subsets.java)|17 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Java](./solutions/923.%203Sum%20With%20Multiplicity.java)|367 ms|
 |930|[ Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Java](./solutions/930.%20Binary%20Subarrays%20With%20Sum.java)|2 ms|
+|936|[ Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|[Java](./solutions/936.%20Stamping%20The%20Sequence.java)|3 ms|
 |940|[ Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](./solutions/940.%20Distinct%20Subsequences%20II.java)|11 ms|
 |966|[ Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Java](./solutions/966.%20Vowel%20Spellchecker.java)|62 ms|
 |971|[ Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|[Java](./solutions/971.%20Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.java)|0 ms|
