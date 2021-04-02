@@ -45,6 +45,7 @@
 |421|[ Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Java](./solutions/421.%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.java)|30 ms|
 |423|[ Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Java](./solutions/423.%20Reconstruct%20Original%20Digits%20from%20English.java)|7 ms|
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Java](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.java)|4 ms|
+|474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Java](./solutions/474.%20Ones%20and%20Zeroes.java)|32 ms|
 |478|[ Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Java](./solutions/478.%20Generate%20Random%20Point%20in%20a%20Circle.java)|200 ms|
 |496|[ Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./solutions/496.%20Next%20Greater%20Element%20I.java)|2 ms|
 |509|[ Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](./solutions/509.%20Fibonacci%20Number.java)|0 ms|
