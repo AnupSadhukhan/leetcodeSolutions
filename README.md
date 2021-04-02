@@ -26,6 +26,7 @@
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/141.%20Linked%20List%20Cycle.java)|0 ms|
 |160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.java)|1 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|4 ms|
+|198|[ House Robber](https://leetcode.com/problems/house-robber/)|[Java](./solutions/198.%20House%20Robber.java)|0 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.java)|1 ms|
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Java](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.java)|4 ms|
 |208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).java)|30 ms|
