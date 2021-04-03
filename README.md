@@ -9,6 +9,7 @@
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./solutions/24.%20Swap%20Nodes%20in%20Pairs.java)|0 ms|
 |29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./solutions/29.%20Divide%20Two%20Integers.java)|2 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|0 ms|
+|32|[ Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./solutions/32.%20Longest%20Valid%20Parentheses.java)|1 ms|
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./solutions/38.%20Count%20and%20Say.java)|13 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./solutions/50.%20Pow(x%2C%20n).java)|0 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./solutions/64.%20Minimum%20Path%20Sum.java)|2 ms|
