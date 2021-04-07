@@ -115,6 +115,7 @@
 |1658|[ Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Java](./solutions/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java)|83 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./solutions/1678.%20Goal%20Parser%20Interpretation.java)|0 ms|
+|1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Java](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.java)|1 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Java](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.java)|4 ms|
 |1734|[ Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)|[Java](./solutions/1734.%20Decode%20XORed%20Permutation.java)|2 ms|
 |1736|[ Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Java](./solutions/1736.%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.java)|0 ms|
