@@ -109,6 +109,7 @@
 |1234|[ Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[Java](./solutions/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.java)|5 ms|
 |1248|[ Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./solutions/1248.%20Count%20Number%20of%20Nice%20Subarrays.java)|13 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Java](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java)|5 ms|
+|1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[Java](./solutions/1302.%20Deepest%20Leaves%20Sum.java)|3 ms|
 |1310|[ XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Java](./solutions/1310.%20XOR%20Queries%20of%20a%20Subarray.java)|1 ms|
 |1318|[ Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|[Java](./solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.java)|0 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Java](./solutions/1332.%20Remove%20Palindromic%20Subsequences.java)|0 ms|
