@@ -103,6 +103,7 @@
 |971|[ Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|[Java](./solutions/971.%20Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.java)|0 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|3 ms|
+|1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](./solutions/1049.%20Last%20Stone%20Weight%20II.java)|2 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](./solutions/1137.%20N-th%20Tribonacci%20Number.java)|0 ms|
 |1208|[ Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Java](./solutions/1208.%20Get%20Equal%20Substrings%20Within%20Budget.java)|4 ms|
