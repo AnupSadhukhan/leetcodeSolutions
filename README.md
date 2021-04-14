@@ -72,6 +72,7 @@
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Java](./solutions/622.%20Design%20Circular%20Queue.java)|4 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Java](./solutions/623.%20Add%20One%20Row%20to%20Tree.java)|0 ms|
+|638|[ Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Java](./solutions/638.%20Shopping%20Offers.java)|2 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](./solutions/645.%20Set%20Mismatch.java)|10 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](./solutions/647.%20Palindromic%20Substrings.java)|0 ms|
 |648|[ Replace Words](https://leetcode.com/problems/replace-words/)|[Java](./solutions/648.%20Replace%20Words.java)|24 ms|
