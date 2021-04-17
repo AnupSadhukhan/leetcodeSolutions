@@ -120,6 +120,7 @@
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Java](./solutions/1332.%20Remove%20Palindromic%20Subsequences.java)|0 ms|
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Java](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.java)|2 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
+|1353|[ Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)|[Java](./solutions/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.java)|59 ms|
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.java)|6 ms|
 |1470|[ Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](./solutions/1470.%20Shuffle%20the%20Array.java)|0 ms|
 |1551|[ Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Java](./solutions/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.java)|0 ms|
