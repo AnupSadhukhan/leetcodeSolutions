@@ -1,4 +1,15 @@
 class Solution {
+    // prerequisite : 560. Subarray Sum Equals K
+    // We will do the prefix sum for every row, now the problem is
+    // reduced to subarray sum for each row, if we need to consider multiple
+    // columns, we will do cumaltive sum, so after doing prefix our matrix will be
+    //  [0,1,1]                                         [0]     [0,1]       [0,1,1] | 1
+    //  [1,2,3] we will do the searching 1st iteration :[1] then[1,2] then  [1,2,3] | 3 cuma sum=5
+    //  [0,1,1]                                         [0]     [0,1]       [0,1,1] V 1
+    // 2nd itr                               3rd itr
+    // [1] |      [1,1] |                    [1] |
+    // [2] | then [2,3] | sum up             [3] | sum up
+    // [1] v      [1,1] V                    [1] V
     public int numSubmatrixSumTarget(int[][] matrix, int target) {
         int row=matrix.length,col=matrix[0].length;
         for(int i=0;i<row;i++){
