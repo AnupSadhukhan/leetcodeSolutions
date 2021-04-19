@@ -49,7 +49,7 @@
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|2 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./solutions/354.%20Russian%20Doll%20Envelopes.java)|8 ms|
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Java](./solutions/376.%20Wiggle%20Subsequence.java)|0 ms|
-|377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](./solutions/377.%20Combination%20Sum%20IV.java)|1 ms|
+|377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](./solutions/377.%20Combination%20Sum%20IV.java)|0 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|7 ms|
 |413|[ Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[Java](./solutions/413.%20Arithmetic%20Slices.java)|0 ms|
 |416|[ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](./solutions/416.%20Partition%20Equal%20Subset%20Sum.java)|22 ms|
