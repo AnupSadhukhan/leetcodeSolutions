@@ -14,20 +14,33 @@ class Solution {
     // sum=4 elm = 1  dp=[1,1,2,4,4], elm =2, dp=[1,1,2,4,6], elm=3, dp=[1,1,2,4,7] 
     //rule: dp[sum]=dp[sum-elm1]+dp[sum-elm2]+dp[sum-elm3]... for all elements if(sum-elm>=0)
     
+    int[] dp;
     public int combinationSum4(int[] nums, int target) {
-        int[] dp=new int[target+1];
+        /*int[] dp=new int[target+1];
         dp[0]=1;
+        for(int i=1;i<=target;i++){
+            for(int j=0;j<nums.length;j++){
+                if(i-nums[j]>=0){
+                    dp[i]+=dp[i-nums[j]];
+                }
+            }
+        }
+        return dp[target];*/
+        dp=new int[target+1];
+        Arrays.fill(dp,-1);
+        dp[0]=1;
+        return  helper(nums,target);
+    }
+    public int helper(int[] nums,int target){
+    
+        if(target<0) return 0;
+        if(dp[target]>-1) return dp[target];
+        int res=0;
+        for(int i :  nums){
+            res+=helper(nums,target-i);
+        }
+        dp[target]=res;
        
-            for(int sum=1;sum<=target;sum++){
-                for(int i=0;i<nums.length;i++){
-                    if(sum-nums[i]>=0){ 
-                        dp[sum]+=dp[sum-nums[i]];
-                    }
-                }
-                
-            }
         return dp[target];
-        
-        
     }
 }
