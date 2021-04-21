@@ -1,36 +1,3 @@
-class Solution {
-    /* DFS 3D sol 232ms */
-    /*boolean[][] vis;
-    int[][][] dp;
-    int[][] dir=new int[][]{{-2,-1},{-2,1},{-1,-2},{-1,2},{1,-2},{1,2},{2,-1},{2,1}};
-    public int knightDialer(int n) {
-        vis=new boolean[4][3];
-        vis[3][0]=true;
-        vis[3][2]=true;
-        dp=new int[n][4][3];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<4;j++){
-                Arrays.fill(dp[i][j],-1);
-            }
-        }
-        int count=0;
-        for(int i=0;i<4;i++){
-            for(int j=0;j<3;j++){
-                if(!vis[i][j]){
-                    count=(count+helper(i,j,n-1))%1000000007;
-                }
-            }
-        }
-        return count;
-    }
-    public int helper(int i,int j,int n){
-        if(n==0) return 1;
-        if(dp[n-1][i][j]!=-1) return dp[n-1][i][j];
-        int count=0;
-           
-        for(int[] d : dir){
-            int i1=i+d[0];
-            int j1=j+d[1];
             if(i1>=0 && i1<4 && j1>=0 && j1<3){
                  if(!vis[i1][j1])
                 count=(count+helper(i1,j1,n-1))%1000000007;
@@ -60,3 +27,19 @@ class Solution {
     
     long knightDialerCached(int next, int N) {
         if (N == 0) return 0;
+        if (N == 1) return 1;
+        long num = 0;
+        if ( cache[next][N] != 0) {
+            return cache[next][N];
+        }
+        
+        for (int adj : adjs[next]) {
+            num += knightDialerCached(adj, N-1) % M ;
+        }
+        num %= M;
+        cache[next][N] = num;
+        return num;
+    }
+​
+        
+}
