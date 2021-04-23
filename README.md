@@ -86,6 +86,7 @@
 |648|[ Replace Words](https://leetcode.com/problems/replace-words/)|[Java](./solutions/648.%20Replace%20Words.java)|24 ms|
 |669|[ Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Java](./solutions/669.%20Trim%20a%20Binary%20Search%20Tree.java)|0 ms|
 |677|[ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Java](./solutions/677.%20Map%20Sum%20Pairs.java)|11 ms|
+|696|[ Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Java](./solutions/696.%20Count%20Binary%20Substrings.java)|6 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](./solutions/706.%20Design%20HashMap.java)|12 ms|
 |714|[ Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java)|2 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.java)|1 ms|
