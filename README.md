@@ -114,6 +114,7 @@
 |940|[ Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](./solutions/940.%20Distinct%20Subsequences%20II.java)|11 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|4 ms|
 |966|[ Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Java](./solutions/966.%20Vowel%20Spellchecker.java)|62 ms|
+|970|[ Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](./solutions/970.%20Powerful%20Integers.java)|1 ms|
 |971|[ Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|[Java](./solutions/971.%20Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.java)|0 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|3 ms|
