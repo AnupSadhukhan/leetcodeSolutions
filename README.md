@@ -122,6 +122,7 @@
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](./solutions/1049.%20Last%20Stone%20Weight%20II.java)|2 ms|
 |1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.java)|97 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
+|1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[Java](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.java)|6 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](./solutions/1137.%20N-th%20Tribonacci%20Number.java)|0 ms|
 |1155|[ Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Java](./solutions/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.java)|14 ms|
 |1208|[ Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Java](./solutions/1208.%20Get%20Equal%20Substrings%20Within%20Budget.java)|4 ms|
