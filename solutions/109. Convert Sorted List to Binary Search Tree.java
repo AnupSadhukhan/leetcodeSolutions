@@ -23,6 +23,12 @@
  *     }
  * }
  */
+​
+// take a mid point , make that root, call recursive call to construct left sub tree
+// with elements left side of mid element, and construct right sub tree, calling recursion 
+// with elements right side of mid element, repeat the steps to construct the tree
+// we will find out mid point using slow and fast pointer 
+// O(nlogn) time complexity
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
         if(head==null) return null;
