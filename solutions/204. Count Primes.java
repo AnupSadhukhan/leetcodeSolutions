@@ -1,4 +1,7 @@
 class Solution {
+    // we can use normal sqrt function to check prime, that would take O(n*sqrt(n))
+    // but it will give TLE, so we will use sieve of eratosthenes algorithms
+    // O(nloglogn)
     public int countPrimes(int n) {
         int count=0;
         boolean[] isPrime=new boolean[n];
