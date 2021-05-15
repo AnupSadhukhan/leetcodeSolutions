@@ -20,6 +20,7 @@
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |63|[ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./solutions/63.%20Unique%20Paths%20II.java)|0 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./solutions/64.%20Minimum%20Path%20Sum.java)|2 ms|
+|65|[ Valid Number](https://leetcode.com/problems/valid-number/)|[Java](./solutions/65.%20Valid%20Number.java)|2 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./solutions/70.%20Climbing%20Stairs.java)|0 ms|
 |71|[ Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./solutions/71.%20Simplify%20Path.java)|3 ms|
 |72|[ Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./solutions/72.%20Edit%20Distance.java)|4 ms|
