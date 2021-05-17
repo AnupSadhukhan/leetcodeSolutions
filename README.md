@@ -136,6 +136,7 @@
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|3 ms|
 |1035|[ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Java](./solutions/1035.%20Uncrossed%20Lines.java)|4 ms|
+|1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./solutions/1048.%20Longest%20String%20Chain.java)|20 ms|
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](./solutions/1049.%20Last%20Stone%20Weight%20II.java)|2 ms|
 |1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.java)|97 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
