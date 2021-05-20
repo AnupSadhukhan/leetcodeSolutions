@@ -111,6 +111,7 @@
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](./solutions/706.%20Design%20HashMap.java)|12 ms|
 |714|[ Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./solutions/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.java)|2 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.java)|1 ms|
+|767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|0 ms|
 |775|[ Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Java](./solutions/775.%20Global%20and%20Local%20Inversions.java)|1 ms|
 |779|[ K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Java](./solutions/779.%20K-th%20Symbol%20in%20Grammar.java)|0 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|1 ms|
