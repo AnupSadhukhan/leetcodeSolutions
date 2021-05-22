@@ -17,6 +17,7 @@
 |38|[ Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./solutions/38.%20Count%20and%20Say.java)|13 ms|
 |45|[ Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](./solutions/45.%20Jump%20Game%20II.java)|0 ms|
 |50|[ Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./solutions/50.%20Pow(x%2C%20n).java)|0 ms|
+|51|[ N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./solutions/51.%20N-Queens.java)|3 ms|
 |55|[ Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./solutions/55.%20Jump%20Game.java)|0 ms|
 |62|[ Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./solutions/62.%20Unique%20Paths.java)|0 ms|
 |63|[ Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./solutions/63.%20Unique%20Paths%20II.java)|0 ms|
