@@ -120,6 +120,7 @@
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Java](./solutions/823.%20Binary%20Trees%20With%20Factors.java)|25 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|1 ms|
+|845|[ Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Java](./solutions/845.%20Longest%20Mountain%20in%20Array.java)|2 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Java](./solutions/856.%20Score%20of%20Parentheses.java)|0 ms|
 |860|[ Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./solutions/860.%20Lemonade%20Change.java)|2 ms|
 |862|[ Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Java](./solutions/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.java)|17 ms|
