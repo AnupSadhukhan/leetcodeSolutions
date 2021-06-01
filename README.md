@@ -113,6 +113,7 @@
 |673|[ Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[Java](./solutions/673.%20Number%20of%20Longest%20Increasing%20Subsequence.java)|20 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.java)|1 ms|
 |677|[ Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Java](./solutions/677.%20Map%20Sum%20Pairs.java)|11 ms|
+|695|[ Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](./solutions/695.%20Max%20Area%20of%20Island.java)|3 ms|
 |696|[ Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Java](./solutions/696.%20Count%20Binary%20Substrings.java)|6 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Java](./solutions/706.%20Design%20HashMap.java)|12 ms|
 |709|[ To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Java](./solutions/709.%20To%20Lower%20Case.java)|0 ms|
