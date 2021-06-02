@@ -14,6 +14,11 @@
  * }
  */
 class Solution {
+    /* use queue, we will insert root first, while popping it
+       will add it to list and other nodes depending on number of nodes
+       at that level while popping we will add childrens of this node
+       if available to queue, and perform same process.    
+    */
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result=new ArrayList<>();
         if(root==null) return result;
