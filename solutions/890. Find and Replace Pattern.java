@@ -1,4 +1,12 @@
 class Solution {
+    /* create generic pattern from pattern string using map, 
+       if char of pattern string is already mapped, then add that
+       mapped char to stringbuilder else generate a new pattern or char map 
+       for this char ,
+       we will do the same for every words then check if mapping string of word 
+       matches with mapping string of pattern string then we will add this word
+       to result else not.
+       */
     public List<String> findAndReplacePattern(String[] words, String pattern) {
         List<String> result=new ArrayList<>();
         Set<String> set=new HashSet<>();
