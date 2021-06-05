@@ -181,6 +181,7 @@
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
 |1353|[ Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)|[Java](./solutions/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.java)|59 ms|
 |1354|[ Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[Java](./solutions/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.java)|7 ms|
+|1383|[ Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[Java](./solutions/1383.%20Maximum%20Performance%20of%20a%20Team.java)|37 ms|
 |1423|[ Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Java](./solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.java)|1 ms|
 |1458|[ Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)|[Java](./solutions/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences.java)|10 ms|
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.java)|6 ms|
