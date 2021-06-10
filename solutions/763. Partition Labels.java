@@ -1,4 +1,10 @@
 class Solution {
+    // approch 1: using lastIndexOf method of the char, we need to put all same char in one part
+    // only, so, when last index and i is same means, it ends here, else we can continue to include
+    // the char in the same string
+    
+    // approch 2: uses same concept, here we keep last index in the array of size 26,
+    // we iterate the char array and update last char position int the last index array
     public List<Integer> partitionLabels(String s) {
         // 9 ms
         /*int last=-1;
