@@ -205,6 +205,7 @@
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./solutions/1678.%20Goal%20Parser%20Interpretation.java)|0 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)|4 ms|
+|1690|[ Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Java](./solutions/1690.%20Stone%20Game%20VII.java)||
 |1695|[ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Java](./solutions/1695.%20Maximum%20Erasure%20Value.java)|6 ms|
 |1696|[ Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[Java](./solutions/1696.%20Jump%20Game%20VI.java)|73 ms|
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Java](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.java)|1 ms|
