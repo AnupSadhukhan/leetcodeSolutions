@@ -2,7 +2,7 @@ class Solution {
     // we can use sorting and set to check duplicate, but if we 
     // follow the constraint then we have to solve it using 
     // floyd's tortoise and hare (cycle detection) algo
-    // check approch 3 in the solution for better understanding
+    // check approch 3 in the solution for better understanding 
     public int findDuplicate(int[] nums) {
         // 30ms
       /* Arrays.sort(nums);
