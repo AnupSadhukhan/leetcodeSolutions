@@ -1,4 +1,8 @@
 class Solution {
+    /* This is window sliding problem, we will keep track of elements,
+      and sum of those elements, if a element is already seen we will shrink 
+      the window and reduce the sum, at the end will retun max possible sum
+      */
     public int maximumUniqueSubarray(int[] nums) {
         if(nums.length==1) return nums[0];
         boolean[] vis=new boolean[10001];
