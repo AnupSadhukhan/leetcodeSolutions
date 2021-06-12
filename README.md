@@ -147,6 +147,7 @@
 |860|[ Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./solutions/860.%20Lemonade%20Change.java)|2 ms|
 |862|[ Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[Java](./solutions/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.java)|17 ms|
 |869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](./solutions/869.%20Reordered%20Power%20of%202.java)|1 ms|
+|871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.java)||
 |890|[ Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Java](./solutions/890.%20Find%20and%20Replace%20Pattern.java)|2 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](./solutions/895.%20Maximum%20Frequency%20Stack.java)|25 ms|
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.java)|372 ms|
