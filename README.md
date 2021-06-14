@@ -210,6 +210,7 @@
 |1695|[ Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Java](./solutions/1695.%20Maximum%20Erasure%20Value.java)|6 ms|
 |1696|[ Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[Java](./solutions/1696.%20Jump%20Game%20VI.java)|73 ms|
 |1704|[ Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Java](./solutions/1704.%20Determine%20if%20String%20Halves%20Are%20Alike.java)|1 ms|
+|1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|7 ms|
 |1721|[ Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Java](./solutions/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.java)|4 ms|
 |1734|[ Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)|[Java](./solutions/1734.%20Decode%20XORed%20Permutation.java)|2 ms|
 |1736|[ Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[Java](./solutions/1736.%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.java)|0 ms|
