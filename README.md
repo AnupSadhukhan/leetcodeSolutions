@@ -175,6 +175,7 @@
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](./solutions/1049.%20Last%20Stone%20Weight%20II.java)|2 ms|
 |1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.java)|97 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
+|1094|[ Car Pooling](https://leetcode.com/problems/car-pooling/)|[Java](./solutions/1094.%20Car%20Pooling.java)|1 ms|
 |1130|[ Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)|[Java](./solutions/1130.%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.java)|6 ms|
 |1137|[ N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](./solutions/1137.%20N-th%20Tribonacci%20Number.java)|0 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](./solutions/1143.%20Longest%20Common%20Subsequence.java)|10 ms|
