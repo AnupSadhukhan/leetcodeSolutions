@@ -94,6 +94,7 @@
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Java](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.java)|4 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|15 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Java](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.java)|2 ms|
+|473|[ Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Java](./solutions/473.%20Matchsticks%20to%20Square.java)||
 |474|[ Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Java](./solutions/474.%20Ones%20and%20Zeroes.java)|32 ms|
 |478|[ Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Java](./solutions/478.%20Generate%20Random%20Point%20in%20a%20Circle.java)|200 ms|
 |494|[ Target Sum](https://leetcode.com/problems/target-sum/)|[Java](./solutions/494.%20Target%20Sum.java)|5 ms|
