@@ -1,3 +1,10 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
  *     TreeNode(int val) { this.val = val; }
  *     TreeNode(int val, TreeNode left, TreeNode right) {
  *         this.val = val;
@@ -7,6 +14,11 @@
  * }
  */
 class Solution {
+    /* find root from preorder traversal, i.e. all roots are available from starting index,
+       then find that root position in inorder traversal, after that recur for left sub tree 
+       and right subtree with start to root position-1 in inorder and root postion + 1 to end
+       
+     */
     /* 5ms
     public TreeNode buildTree(int[] preorder, int[] inorder) {
           
@@ -50,30 +62,3 @@ class Solution {
         if(start==end) {
             pIndex++;
             return node;
-        }
-        int split=map.get(pre[pIndex++]);
-        //System.out.println("Split index : "+split);
-        node.left=build(pre,in,start,split-1);
-        node.right=build(pre,in,split+1,end);
-        return node;
-        
-    }*/
-    
-    // 0ms
-    int pre=0;
-    int in=0;
-     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        return construct(preorder,inorder,Integer.MIN_VALUE);
-     }
-    public TreeNode construct(int[] preorder,int[] inorder,int stop){
-        if(pre>=preorder.length) return null;
-        if(inorder[in]==stop){
-            in++;
-            return null;
-        }
-        TreeNode node=new TreeNode(preorder[pre++]);
-        node.left=construct(preorder,inorder,node.val);
-        node.right=construct(preorder,inorder,stop);
-        return node;
-    }
-}
