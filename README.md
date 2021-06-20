@@ -123,6 +123,7 @@
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)||
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Java](./solutions/622.%20Design%20Circular%20Queue.java)|4 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Java](./solutions/623.%20Add%20One%20Row%20to%20Tree.java)|0 ms|
+|629|[ K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)|[Java](./solutions/629.%20K%20Inverse%20Pairs%20Array.java)|15 ms|
 |638|[ Shopping Offers](https://leetcode.com/problems/shopping-offers/)|[Java](./solutions/638.%20Shopping%20Offers.java)|2 ms|
 |645|[ Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](./solutions/645.%20Set%20Mismatch.java)|10 ms|
 |647|[ Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](./solutions/647.%20Palindromic%20Substrings.java)|0 ms|
