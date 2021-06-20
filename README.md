@@ -79,6 +79,7 @@
 |318|[ Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./solutions/318.%20Maximum%20Product%20of%20Word%20Lengths.java)|8 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./solutions/322.%20Coin%20Change.java)|21 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.java)|12 ms|
+|336|[ Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Java](./solutions/336.%20Palindrome%20Pairs.java)|2653 ms|
 |338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./solutions/338.%20Counting%20Bits.java)|1 ms|
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Java](./solutions/341.%20Flatten%20Nested%20List%20Iterator.java)|2 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|2 ms|
