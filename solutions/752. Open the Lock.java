@@ -1,5 +1,12 @@
 class Solution {
-    
+    /*  start from starting lock sequsnce, then try to generate all
+    possible locks that can be reached from current lock sequence both from
+    forward and backward side.
+    we will push generated locks in queue as we are using bfs, then we will poll one 
+    by one ,if it is not deadends, we will again generate all possible locks from cur
+    seq and do the same steps agains, with that also increase level everytime. if 
+    at any point we get target result then return level value.
+    */    
     private static final String START = "0000";
     
     public int openLock(String[] deadends, String target) {
