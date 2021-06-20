@@ -1,3 +1,29 @@
+    public boolean isPossible(int[] matchsticks,int[] sides,int value){
+        
+        if(sides[0]==value && sides[1]==value && sides[2]==value && sides[3]==value) return true;
+        
+        for(int i=0;i<matchsticks.length;i++){
+            if(!vis[i] && sides[0]+matchsticks[i]<=value){
+                vis[i]=true;
+                sides[0]+=matchsticks[i];
+                if(isPossible(matchsticks,sides,value)) return true;
+                sides[0]-=matchsticks[i];
+                vis[i]=false;
+            }
+            if(!vis[i] && sides[1]+matchsticks[i]<=value){
+                vis[i]=true;
+                sides[1]+=matchsticks[i];
+                if(isPossible(matchsticks,sides,value)) return true;
+                sides[1]-=matchsticks[i];
+                vis[i]=false;
+            }
+            if(!vis[i] && sides[2]+matchsticks[i]<=value){
+                vis[i]=true;
+                sides[2]+=matchsticks[i];
+                if(isPossible(matchsticks,sides,value)) return true;
+                sides[2]-=matchsticks[i];
+                vis[i]=false;
+            }
             if(!vis[i] && sides[3]+matchsticks[i]<=value){
                 vis[i]=true;
                 sides[3]+=matchsticks[i];
