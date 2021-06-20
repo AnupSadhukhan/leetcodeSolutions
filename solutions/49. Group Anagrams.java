@@ -1,4 +1,7 @@
 class Solution {
+    /* create hashmap for every word, if  hash key is already present in
+    the hashmap, add new word to the list value, else add key and add new 
+    list with cur word */
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String,List<String>> map=new HashMap<>();
         for(String s : strs){
