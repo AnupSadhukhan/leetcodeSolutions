@@ -1,4 +1,7 @@
 class Solution {
+    /* take a num as x and another as y
+    compare and sort as x+y.compareTo(y+x)
+    */
     public String largestNumber(int[] nums) {
         
         //List<String> list=new ArrayList<>();
