@@ -1,4 +1,8 @@
 class Solution {
+    /* create a 2d array, sort by efficiency, then one by one add to priority queue
+     if queue size if full i.e. k then poll top element, at every iteration, calculate sum
+     and result, then compare with prev res. update res as max res. return ans at the end. 
+     */
     public int maxPerformance(int n, int[] speed, int[] efficiency, int k) {
         int[][] arr=new int[n][2];
         for(int i=0;i<n;i++){
