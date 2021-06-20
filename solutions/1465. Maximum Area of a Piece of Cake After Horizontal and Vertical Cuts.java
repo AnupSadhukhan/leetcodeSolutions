@@ -1,4 +1,6 @@
 class Solution {
+    /* Sort horizontalCuts and verticalCuts in asending order,  then find max width and max
+       height, at the end return product of max width and height */
     public int maxArea(int h, int w, int[] horizontalCuts, int[] verticalCuts) {
         Arrays.sort(horizontalCuts);
         Arrays.sort(verticalCuts);
