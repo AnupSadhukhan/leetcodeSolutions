@@ -1,3 +1,27 @@
+class Solution {
+    /* approch 1 : use rolling hash technique
+       approch 2 : use a 26 int array, we will store of every char freq in the
+       array for p string, 
+       create a counter of p's length
+       now create a window of size of p's string. while creating window, 
+       if there was a char in p i.e. array contains value >=1 then decrease
+       both frequency and counter, if counter value become 0, means there is an anagram
+       when window size execeeds size of p's string, slide window by one char and whichever char 
+       left from window for that increase freq in array map and increase counter value.
+       
+       whenever our count is zero, anagram found, so add that location into our result.
+    // 25ms
+    /*
+    public List<Integer> findAnagrams(String s, String p) {
+        List<Integer> res=new ArrayList<>();
+        if(p.length()>s.length()) return res;
+        
+        int[] arr=new int[26];
+        for(char c : p.toCharArray()){
+            arr[c-'a']++;
+        }
+        
+       
         Set<String> set=new HashSet<>();
         set.add(new String(arr,0,26));
         int n=p.length();
