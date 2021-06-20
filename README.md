@@ -145,6 +145,7 @@
 |763|[ Partition Labels](https://leetcode.com/problems/partition-labels/)|[Java](./solutions/763.%20Partition%20Labels.java)|2 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|0 ms|
 |775|[ Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[Java](./solutions/775.%20Global%20and%20Local%20Inversions.java)|1 ms|
+|778|[ Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|[Java](./solutions/778.%20Swim%20in%20Rising%20Water.java)||
 |779|[ K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[Java](./solutions/779.%20K-th%20Symbol%20in%20Grammar.java)|0 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|1 ms|
 |795|[ Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Java](./solutions/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.java)|2 ms|
