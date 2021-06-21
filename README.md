@@ -54,6 +54,7 @@
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[Java](./solutions/139.%20Word%20Break.java)|3 ms|
 |140|[ Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](./solutions/140.%20Word%20Break%20II.java)|1 ms|
 |141|[ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./solutions/141.%20Linked%20List%20Cycle.java)|0 ms|
+|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|[Java](./solutions/143.%20Reorder%20List.java)|1 ms|
 |160|[ Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./solutions/160.%20Intersection%20of%20Two%20Linked%20Lists.java)|1 ms|
 |164|[ Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Java](./solutions/164.%20Maximum%20Gap.java)|2 ms|
 |179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Java](./solutions/179.%20Largest%20Number.java)|1 ms|
