@@ -100,6 +100,7 @@
 |423|[ Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Java](./solutions/423.%20Reconstruct%20Original%20Digits%20from%20English.java)|7 ms|
 |424|[ Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Java](./solutions/424.%20Longest%20Repeating%20Character%20Replacement.java)|4 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.java)|15 ms|
+|445|[ Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](./solutions/445.%20Add%20Two%20Numbers%20II.java)|2 ms|
 |461|[ Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./solutions/461.%20Hamming%20Distance.java)|0 ms|
 |462|[ Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Java](./solutions/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.java)|2 ms|
 |473|[ Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)|[Java](./solutions/473.%20Matchsticks%20to%20Square.java)|36 ms|
