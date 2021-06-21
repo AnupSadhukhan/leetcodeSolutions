@@ -17,3 +17,27 @@ class Solution {
         return res;
     }
 }
+/* another implementation
+class Solution {
+    public List<List<Integer>> generate(int numRows) {
+        
+        List<List<Integer>> res=new ArrayList<>();
+        Integer[] prev={1};
+        res.add(Arrays.asList(prev));
+        if(numRows==1)  return res;
+       
+        for(int row=2;row<=numRows;row++){
+            Integer[] cur=new Integer[row];
+            int index=0;
+            cur[index++]=1;
+            for(int i=0;i<prev.length-1 && prev.length>1;i++){
+                cur[index++]=prev[i]+prev[i+1];
+            }
+            cur[index]=1;
+            res.add(Arrays.asList(cur));
+            prev=cur;
+        }
+        return res;
+    }
+}
+*/
