@@ -83,6 +83,7 @@
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./solutions/300.%20Longest%20Increasing%20Subsequence.java)|2 ms|
 |304|[ Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.java)|10 ms|
 |307|[ Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Java](./solutions/307.%20Range%20Sum%20Query%20-%20Mutable.java)|93 ms|
+|315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.java)|105 ms|
 |318|[ Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[Java](./solutions/318.%20Maximum%20Product%20of%20Word%20Lengths.java)|8 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./solutions/322.%20Coin%20Change.java)|21 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.java)|12 ms|
