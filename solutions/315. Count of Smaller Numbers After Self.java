@@ -42,3 +42,32 @@ class Solution {
                
                 int count=end-j+1;
                 res[nums[i].index]+=count;
+                list.add(nums[i]);
+                i++;
+                
+            }
+            else{
+                list.add(nums[j]);
+                j++;
+            }
+        }
+        while(i<=mid){
+           list.add(nums[i]);
+                i++;
+        }
+        while(j<=end){
+             list.add(nums[j]);
+                j++;
+        }
+        i=start;
+        j=0;
+        while(i<=end){
+            nums[i]=list.get(j);
+            i++;
+            j++;
+        }
+       
+    }
+  
+    
+}
