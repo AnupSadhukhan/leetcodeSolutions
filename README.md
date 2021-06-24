@@ -244,3 +244,4 @@
 |1784|[ Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[Java](./solutions/1784.%20Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.java)|0 ms|
 |1785|[ Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[Java](./solutions/1785.%20Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum.java)|1 ms|
 |1791|[ Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[Java](./solutions/1791.%20Find%20Center%20of%20Star%20Graph.java)|0 ms|
+|1828|[ Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Java](./solutions/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java)|17 ms|
