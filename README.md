@@ -123,6 +123,7 @@
 |525|[ Contiguous Array](https://leetcode.com/problems/contiguous-array/)|[Java](./solutions/525.%20Contiguous%20Array.java)|19 ms|
 |535|[ Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[Java](./solutions/535.%20Encode%20and%20Decode%20TinyURL.java)|9 ms|
 |538|[ Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](./solutions/538.%20Convert%20BST%20to%20Greater%20Tree.java)|0 ms|
+|547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Java](./solutions/547.%20Number%20of%20Provinces.java)|2 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[Java](./solutions/554.%20Brick%20Wall.java)|11 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|18 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](./solutions/575.%20Distribute%20Candies.java)|32 ms|
