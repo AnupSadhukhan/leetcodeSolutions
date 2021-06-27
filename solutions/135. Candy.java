@@ -1,3 +1,5 @@
+class Solution {
+    /*  we will keep track of last higest rating children or peak in graph( if at any
         sccenario we have to increase hight, then left childrens of last highest rating or peak 
         will not have any impact. we will keep track of candy given to last children, last higest
         rating children and candy given to last higest rating children i.e. last peak)
@@ -70,5 +72,3 @@
            else{
                 int dist=i-lastPeakPos;
                 lastCandy=1;
-                if(dist==lastPeakCandy){
-                    dist+=1;
