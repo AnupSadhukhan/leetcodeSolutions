@@ -101,6 +101,7 @@
 |341|[ Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Java](./solutions/341.%20Flatten%20Nested%20List%20Iterator.java)|2 ms|
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./solutions/344.%20Reverse%20String.java)|2 ms|
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|174 ms|
+|350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.java)|0 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./solutions/354.%20Russian%20Doll%20Envelopes.java)|8 ms|
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Java](./solutions/376.%20Wiggle%20Subsequence.java)|0 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](./solutions/377.%20Combination%20Sum%20IV.java)|0 ms|
