@@ -103,6 +103,7 @@
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Java](./solutions/347.%20Top%20K%20Frequent%20Elements.java)|174 ms|
 |350|[ Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./solutions/350.%20Intersection%20of%20Two%20Arrays%20II.java)|0 ms|
 |354|[ Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[Java](./solutions/354.%20Russian%20Doll%20Envelopes.java)|8 ms|
+|363|[ Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Java](./solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java)|398 ms|
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Java](./solutions/376.%20Wiggle%20Subsequence.java)|0 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](./solutions/377.%20Combination%20Sum%20IV.java)|0 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|7 ms|
