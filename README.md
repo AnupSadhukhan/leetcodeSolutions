@@ -219,7 +219,7 @@
 |1208|[ Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)|[Java](./solutions/1208.%20Get%20Equal%20Substrings%20Within%20Budget.java)|4 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Java](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.java)|3 ms|
 |1218|[ Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|[Java](./solutions/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.java)|35 ms|
-|1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[Java](./solutions/1220.%20Count%20Vowels%20Permutation.java)|25 ms|
+|1220|[ Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)|[Java](./solutions/1220.%20Count%20Vowels%20Permutation.java)|10 ms|
 |1234|[ Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)|[Java](./solutions/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.java)|5 ms|
 |1248|[ Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./solutions/1248.%20Count%20Number%20of%20Nice%20Subarrays.java)|13 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Java](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java)|5 ms|
