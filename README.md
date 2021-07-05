@@ -72,6 +72,7 @@
 |201|[ Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Java](./solutions/201.%20Bitwise%20AND%20of%20Numbers%20Range.java)|4 ms|
 |202|[ Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./solutions/202.%20Happy%20Number.java)|0 ms|
 |204|[ Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./solutions/204.%20Count%20Primes.java)|34 ms|
+|207|[ Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./solutions/207.%20Course%20Schedule.java)|2 ms|
 |208|[ Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./solutions/208.%20Implement%20Trie%20(Prefix%20Tree).java)|30 ms|
 |209|[ Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Java](./solutions/209.%20Minimum%20Size%20Subarray%20Sum.java)|1 ms|
 |211|[ Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](./solutions/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.java)|37 ms|
