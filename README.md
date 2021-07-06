@@ -229,6 +229,7 @@
 |1318|[ Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|[Java](./solutions/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.java)|0 ms|
 |1332|[ Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Java](./solutions/1332.%20Remove%20Palindromic%20Subsequences.java)|0 ms|
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Java](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.java)|2 ms|
+|1338|[ Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)|[Java](./solutions/1338.%20Reduce%20Array%20Size%20to%20The%20Half.java)|23 ms|
 |1342|[ Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Java](./solutions/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)|0 ms|
 |1353|[ Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)|[Java](./solutions/1353.%20Maximum%20Number%20of%20Events%20That%20Can%20Be%20Attended.java)|59 ms|
 |1354|[ Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/)|[Java](./solutions/1354.%20Construct%20Target%20Array%20With%20Multiple%20Sums.java)|7 ms|
