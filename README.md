@@ -107,6 +107,7 @@
 |363|[ Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|[Java](./solutions/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java)|398 ms|
 |376|[ Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[Java](./solutions/376.%20Wiggle%20Subsequence.java)|0 ms|
 |377|[ Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](./solutions/377.%20Combination%20Sum%20IV.java)|0 ms|
+|378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Java](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java)|0 ms|
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|7 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./solutions/392.%20Is%20Subsequence.java)|1 ms|
 |402|[ Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|[Java](./solutions/402.%20Remove%20K%20Digits.java)|4 ms|
