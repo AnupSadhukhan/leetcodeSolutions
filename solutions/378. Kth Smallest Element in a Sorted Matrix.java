@@ -36,7 +36,7 @@ class Solution {
             if(isNumberOfElemntsMoreThanOrEqualToK(matrix,mid,k,n)){
                 // if num of elements greater or equal make high as mid - 1
                 high = mid - 1;
-            }
+            }
             else low=mid + 1;
         }
         return low;    
@@ -57,5 +57,3 @@ class Solution {
             }
         }
         return count>=k;
-    }
-}
