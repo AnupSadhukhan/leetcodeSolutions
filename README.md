@@ -149,6 +149,7 @@
 |589|[ N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](./solutions/589.%20N-ary%20Tree%20Preorder%20Traversal.java)|0 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)||
+|611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[Java](./solutions/611.%20Valid%20Triangle%20Number.java)|33 ms|
 |621|[ Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Java](./solutions/621.%20Task%20Scheduler.java)|3 ms|
 |622|[ Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Java](./solutions/622.%20Design%20Circular%20Queue.java)|4 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[Java](./solutions/623.%20Add%20One%20Row%20to%20Tree.java)|0 ms|
