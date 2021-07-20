@@ -222,6 +222,7 @@
 |1035|[ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Java](./solutions/1035.%20Uncrossed%20Lines.java)|4 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./solutions/1048.%20Longest%20String%20Chain.java)|20 ms|
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](./solutions/1049.%20Last%20Stone%20Weight%20II.java)|2 ms|
+|1054|[ Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)|[Java](./solutions/1054.%20Distant%20Barcodes.java)|11 ms|
 |1074|[ Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[Java](./solutions/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.java)|97 ms|
 |1092|[ Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./solutions/1092.%20Shortest%20Common%20Supersequence.java)|25 ms|
 |1094|[ Car Pooling](https://leetcode.com/problems/car-pooling/)|[Java](./solutions/1094.%20Car%20Pooling.java)|1 ms|
