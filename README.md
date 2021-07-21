@@ -146,6 +146,7 @@
 |547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Java](./solutions/547.%20Number%20of%20Provinces.java)|2 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[Java](./solutions/554.%20Brick%20Wall.java)|11 ms|
 |560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./solutions/560.%20Subarray%20Sum%20Equals%20K.java)|18 ms|
+|567|[ Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Java](./solutions/567.%20Permutation%20in%20String.java)|2 ms|
 |575|[ Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](./solutions/575.%20Distribute%20Candies.java)|32 ms|
 |576|[ Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)|[Java](./solutions/576.%20Out%20of%20Boundary%20Paths.java)|3 ms|
 |581|[ Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](./solutions/581.%20Shortest%20Unsorted%20Continuous%20Subarray.java)|1 ms|
