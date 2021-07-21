@@ -213,6 +213,7 @@
 |935|[ Knight Dialer](https://leetcode.com/problems/knight-dialer/)|[Java](./solutions/935.%20Knight%20Dialer.java)|2 ms|
 |936|[ Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|[Java](./solutions/936.%20Stamping%20The%20Sequence.java)|3 ms|
 |940|[ Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](./solutions/940.%20Distinct%20Subsequences%20II.java)|11 ms|
+|948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Java](./solutions/948.%20Bag%20of%20Tokens.java)|3 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|4 ms|
 |966|[ Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Java](./solutions/966.%20Vowel%20Spellchecker.java)|62 ms|
 |968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Java](./solutions/968.%20Binary%20Tree%20Cameras.java)|0 ms|
