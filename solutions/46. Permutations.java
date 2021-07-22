@@ -54,10 +54,7 @@ class Solution {
              
                  continue;
             }
-            if(i>0 && !vis[i-1] && nums[i]==nums[i-1]){
-                
-                continue;
-            } 
+             
             vis[i] = true;
             list.add(nums[i]);
             permuteArray(nums,list);
