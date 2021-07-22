@@ -207,6 +207,7 @@
 |904|[ Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Java](./solutions/904.%20Fruit%20Into%20Baskets.java)|6 ms|
 |906|[ Super Palindromes](https://leetcode.com/problems/super-palindromes/)|[Java](./solutions/906.%20Super%20Palindromes.java)|1162 ms|
 |912|[ Sort an Array](https://leetcode.com/problems/sort-an-array/)|[Java](./solutions/912.%20Sort%20an%20Array.java)|6 ms|
+|915|[ Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](./solutions/915.%20Partition%20Array%20into%20Disjoint%20Intervals.java)|1 ms|
 |916|[ Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./solutions/916.%20Word%20Subsets.java)|17 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Java](./solutions/923.%203Sum%20With%20Multiplicity.java)|367 ms|
 |927|[ Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[Java](./solutions/927.%20Three%20Equal%20Parts.java)|1 ms|
