@@ -192,6 +192,7 @@
 |792|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java](./solutions/792.%20Number%20of%20Matching%20Subsequences.java)||
 |795|[ Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)|[Java](./solutions/795.%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.java)|2 ms|
 |807|[ Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Java](./solutions/807.%20Max%20Increase%20to%20Keep%20City%20Skyline.java)|1 ms|
+|814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Java](./solutions/814.%20Binary%20Tree%20Pruning.java)|0 ms|
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Java](./solutions/820.%20Short%20Encoding%20of%20Words.java)|12 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Java](./solutions/823.%20Binary%20Trees%20With%20Factors.java)|25 ms|
