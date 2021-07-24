@@ -267,6 +267,7 @@
 |1641|[ Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Java](./solutions/1641.%20Count%20Sorted%20Vowel%20Strings.java)|0 ms|
 |1658|[ Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Java](./solutions/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java)|83 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./solutions/1672.%20Richest%20Customer%20Wealth.java)|0 ms|
+|1674|[ Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/)|[Java](./solutions/1674.%20Minimum%20Moves%20to%20Make%20Array%20Complementary.java)|5 ms|
 |1678|[ Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[Java](./solutions/1678.%20Goal%20Parser%20Interpretation.java)|0 ms|
 |1689|[ Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Java](./solutions/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)|4 ms|
 |1690|[ Stone Game VII](https://leetcode.com/problems/stone-game-vii/)|[Java](./solutions/1690.%20Stone%20Game%20VII.java)||
