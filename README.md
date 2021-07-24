@@ -57,6 +57,7 @@
 |122|[ Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./solutions/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java)|1 ms|
 |123|[ Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./solutions/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.java)|3 ms|
 |126|[ Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Java](./solutions/126.%20Word%20Ladder%20II.java)|3 ms|
+|127|[ Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](./solutions/127.%20Word%20Ladder.java)|53 ms|
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](./solutions/128.%20Longest%20Consecutive%20Sequence.java)|37 ms|
 |131|[ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](./solutions/131.%20Palindrome%20Partitioning.java)|28 ms|
 |134|[ Gas Station](https://leetcode.com/problems/gas-station/)|[Java](./solutions/134.%20Gas%20Station.java)|200 ms|
