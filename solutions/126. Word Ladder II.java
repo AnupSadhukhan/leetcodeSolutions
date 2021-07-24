@@ -60,3 +60,20 @@ class Solution {
                         else{
                             tmp.add(word);
                         }
+                        String key = reversed ? word : s;
+                        String val = reversed ?  s : word;
+                        
+                        if(map.get(key)==null){
+                            map.put(key,new ArrayList<>());
+                        }
+                        map.get(key).add(val);
+                    }
+                }
+                chs[i]=oldChar;
+            }
+        }
+        if(!finish){
+            bfs(tmp,endSet,map,dict,reversed);
+        }
+    }
+}
