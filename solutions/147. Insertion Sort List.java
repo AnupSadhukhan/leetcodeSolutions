@@ -1,3 +1,26 @@
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode next = null;
+        while(tmp!=null){
+          prev.next = tmp.next;
+          next = tmp.next;
+          if(!insert(dummy,len,tmp)){
+              prev = tmp;
+          }
+          
+            len++;
+           
+            tmp = next;
+            
+        }
+        return dummy.next;
+    }
+    private boolean insert(ListNode dummy,int len,ListNode node){
+        ListNode prev = dummy;
+        boolean isAddedBefore = false;
+        while(len-->0){
+            if(prev.next.val>node.val) {
+                isAddedBefore = true;
                 break;
             }
             prev = prev.next;
@@ -62,12 +85,3 @@
     public ListNode merge(ListNode a,ListNode b){
         if(a==null) return b;
         if(b==null) return a;
-        ListNode head;
-        ListNode cur;
-        if(a.val<b.val){
-            head=a;
-            cur=a;
-            a=a.next;
-        }else{
-            head=b;
-            cur=b;
