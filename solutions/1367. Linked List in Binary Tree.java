@@ -24,6 +24,7 @@
  * }
  */
 class Solution {
+    // O(N * min(L,H))
     public boolean isSubPath(ListNode head, TreeNode root) {
         if(head==null) return true;
         if(root==null) return false;
