@@ -16,6 +16,7 @@
 |23|[ Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./solutions/23.%20Merge%20k%20Sorted%20Lists.java)|4 ms|
 |24|[ Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./solutions/24.%20Swap%20Nodes%20in%20Pairs.java)|0 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.java)|0 ms|
+|26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.java)|1 ms|
 |29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./solutions/29.%20Divide%20Two%20Integers.java)|2 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./solutions/31.%20Next%20Permutation.java)|0 ms|
 |32|[ Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Java](./solutions/32.%20Longest%20Valid%20Parentheses.java)|1 ms|
