@@ -238,6 +238,7 @@
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|8 ms|
 |991|[ Broken Calculator](https://leetcode.com/problems/broken-calculator/)|[Java](./solutions/991.%20Broken%20Calculator.java)|0 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|3 ms|
+|1019|[ Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)|[Java](./solutions/1019.%20Next%20Greater%20Node%20In%20Linked%20List.java)|3 ms|
 |1035|[ Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Java](./solutions/1035.%20Uncrossed%20Lines.java)|4 ms|
 |1048|[ Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./solutions/1048.%20Longest%20String%20Chain.java)|20 ms|
 |1049|[ Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Java](./solutions/1049.%20Last%20Stone%20Weight%20II.java)|2 ms|
