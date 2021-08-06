@@ -109,6 +109,7 @@
 |239|[ Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Java](./solutions/239.%20Sliding%20Window%20Maximum.java)|30 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](./solutions/240.%20Search%20a%202D%20Matrix%20II.java)|4 ms|
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./solutions/268.%20Missing%20Number.java)|0 ms|
+|278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./solutions/278.%20First%20Bad%20Version.java)|12 ms|
 |279|[ Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./solutions/279.%20Perfect%20Squares.java)|67 ms|
 |283|[ Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Java](./solutions/283.%20Move%20Zeroes.java)|0 ms|
 |284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./solutions/284.%20Peeking%20Iterator.java)|4 ms|
