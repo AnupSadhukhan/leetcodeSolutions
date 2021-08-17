@@ -286,6 +286,7 @@
 |1367|[ Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)|[Java](./solutions/1367.%20Linked%20List%20in%20Binary%20Tree.java)|1 ms|
 |1383|[ Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)|[Java](./solutions/1383.%20Maximum%20Performance%20of%20a%20Team.java)|37 ms|
 |1423|[ Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Java](./solutions/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards.java)|1 ms|
+|1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[Java](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.java)|2 ms|
 |1458|[ Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)|[Java](./solutions/1458.%20Max%20Dot%20Product%20of%20Two%20Subsequences.java)|10 ms|
 |1461|[ Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[Java](./solutions/1461.%20Check%20If%20a%20String%20Contains%20All%20Binary%20Codes%20of%20Size%20K.java)|6 ms|
 |1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|20 ms|
