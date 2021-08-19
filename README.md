@@ -324,3 +324,4 @@
 |1854|[ Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)|[Java](./solutions/1854.%20Maximum%20Population%20Year.java)|0 ms|
 |1871|[ Jump Game VII](https://leetcode.com/problems/jump-game-vii/)|[Java](./solutions/1871.%20Jump%20Game%20VII.java)|8 ms|
 |1957|[ Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Java](./solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.java)|58 ms|
+|1958|[ Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/)|[Java](./solutions/1958.%20Check%20if%20Move%20is%20Legal.java)|0 ms|
