@@ -242,6 +242,7 @@
 |915|[ Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Java](./solutions/915.%20Partition%20Array%20into%20Disjoint%20Intervals.java)|1 ms|
 |916|[ Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./solutions/916.%20Word%20Subsets.java)|17 ms|
 |923|[ 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[Java](./solutions/923.%203Sum%20With%20Multiplicity.java)|367 ms|
+|926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Java](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.java)|11 ms|
 |927|[ Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[Java](./solutions/927.%20Three%20Equal%20Parts.java)|1 ms|
 |930|[ Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)|[Java](./solutions/930.%20Binary%20Subarrays%20With%20Sum.java)|2 ms|
 |931|[ Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)|[Java](./solutions/931.%20Minimum%20Falling%20Path%20Sum.java)|4 ms|
