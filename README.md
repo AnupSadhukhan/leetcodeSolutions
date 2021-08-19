@@ -252,6 +252,7 @@
 |940|[ Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)|[Java](./solutions/940.%20Distinct%20Subsequences%20II.java)|11 ms|
 |948|[ Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Java](./solutions/948.%20Bag%20of%20Tokens.java)|3 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|4 ms|
+|954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[Java](./solutions/954.%20Array%20of%20Doubled%20Pairs.java)|42 ms|
 |966|[ Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Java](./solutions/966.%20Vowel%20Spellchecker.java)|62 ms|
 |968|[ Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)|[Java](./solutions/968.%20Binary%20Tree%20Cameras.java)|0 ms|
 |970|[ Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](./solutions/970.%20Powerful%20Integers.java)|1 ms|
