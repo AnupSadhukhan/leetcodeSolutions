@@ -231,6 +231,7 @@
 |869|[ Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](./solutions/869.%20Reordered%20Power%20of%202.java)|1 ms|
 |871|[ Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)|[Java](./solutions/871.%20Minimum%20Number%20of%20Refueling%20Stops.java)|2 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
+|877|[ Stone Game](https://leetcode.com/problems/stone-game/)|[Java](./solutions/877.%20Stone%20Game.java)|5 ms|
 |890|[ Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Java](./solutions/890.%20Find%20and%20Replace%20Pattern.java)|2 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Java](./solutions/895.%20Maximum%20Frequency%20Stack.java)|25 ms|
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[Java](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.java)|372 ms|
