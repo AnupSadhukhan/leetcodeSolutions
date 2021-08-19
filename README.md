@@ -122,6 +122,7 @@
 |289|[ Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](./solutions/289.%20Game%20of%20Life.java)|0 ms|
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./solutions/295.%20Find%20Median%20from%20Data%20Stream.java)|115 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./solutions/300.%20Longest%20Increasing%20Subsequence.java)|2 ms|
+|303|[ Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./solutions/303.%20Range%20Sum%20Query%20-%20Immutable.java)|6 ms|
 |304|[ Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./solutions/304.%20Range%20Sum%20Query%202D%20-%20Immutable.java)|10 ms|
 |307|[ Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Java](./solutions/307.%20Range%20Sum%20Query%20-%20Mutable.java)|93 ms|
 |315|[ Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|[Java](./solutions/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.java)|105 ms|
