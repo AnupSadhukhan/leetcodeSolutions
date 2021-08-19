@@ -323,3 +323,4 @@
 |1828|[ Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)|[Java](./solutions/1828.%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java)|17 ms|
 |1854|[ Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)|[Java](./solutions/1854.%20Maximum%20Population%20Year.java)|0 ms|
 |1871|[ Jump Game VII](https://leetcode.com/problems/jump-game-vii/)|[Java](./solutions/1871.%20Jump%20Game%20VII.java)|8 ms|
+|1957|[ Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Java](./solutions/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.java)|58 ms|
