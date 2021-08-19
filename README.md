@@ -298,6 +298,7 @@
 |1480|[ Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./solutions/1480.%20Running%20Sum%20of%201d%20Array.java)|0 ms|
 |1551|[ Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Java](./solutions/1551.%20Minimum%20Operations%20to%20Make%20Array%20Equal.java)|0 ms|
 |1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[Java](./solutions/1629.%20Slowest%20Key.java)|1 ms|
+|1632|[ Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/)|[Java](./solutions/1632.%20Rank%20Transform%20of%20a%20Matrix.java)|233 ms|
 |1641|[ Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)|[Java](./solutions/1641.%20Count%20Sorted%20Vowel%20Strings.java)|0 ms|
 |1658|[ Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[Java](./solutions/1658.%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java)|83 ms|
 |1669|[ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)|[Java](./solutions/1669.%20Merge%20In%20Between%20Linked%20Lists.java)|2 ms|
