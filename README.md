@@ -221,6 +221,7 @@
 |820|[ Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[Java](./solutions/820.%20Short%20Encoding%20of%20Words.java)|12 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.java)|1 ms|
 |823|[ Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Java](./solutions/823.%20Binary%20Trees%20With%20Factors.java)|25 ms|
+|827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./solutions/827.%20Making%20A%20Large%20Island.java)|77 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Java](./solutions/838.%20Push%20Dominoes.java)|12 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|1 ms|
 |845|[ Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[Java](./solutions/845.%20Longest%20Mountain%20in%20Array.java)|2 ms|
